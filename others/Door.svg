@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
+   width="170"
+   height="230"
+   id="svg2534"
+   sodipodi:version="0.32"
+   inkscape:version="0.48+devel "
+   version="1.0"
+   sodipodi:docname="Door.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2536" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3434783"
+     inkscape:cx="85"
+     inkscape:cy="115"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     borderlayer="true"
+     showguides="true"
+     showborder="true"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2544"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.0001px"
+       spacingy="0.0001px"
+       originx="-2109.2625px"
+       originy="-726.35837px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2539">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(-2109.2625,-83.641599)">
+    <rect
+       rx="0"
+       ry="0"
+       y="-636.68365"
+       x="-1163.1271"
+       height="2293.76"
+       width="6133.3784"
+       id="rect3603"
+       style="fill:#004e98;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="MMI"
+     style="display:inline"
+     transform="translate(-2109.2625,-83.641599)">
+    <g
+       id="g270"
+       transform="matrix(-2.9607365,0,0,2.9607365,3845.8133,-469.91762)"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%LOC=T1&quot;,&quot;%ROOM=LV1&quot;,&quot;%R=A&quot;,&quot;%L=B&quot;]}"
+       style="display:inline">
+      <path
+         sodipodi:end="1.5769529"
+         sodipodi:start="0"
+         transform="matrix(1.6784667,0,0,-1.6784667,329.56049,609.74374)"
+         d="m 136.192,234.44 a 16.384001,16.384001 0 0 1 -16.48487,16.38369 L 119.808,234.44 Z"
+         sodipodi:ry="16.384001"
+         sodipodi:rx="16.384001"
+         sodipodi:cy="234.44"
+         sodipodi:cx="119.808"
+         id="path272"
+         style="fill:none;stroke:#000000;stroke-width:0.59578186;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.59578185, 0.59578185;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <rect
+         transform="matrix(0,1,1,0,0,0)"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="rect274"
+         width="27"
+         height="9"
+         x="189.244"
+         y="530.48492"
+         ry="2.8559933"
+         rx="2.8559933"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;DC_%LOC_%ROOM%L&quot;}" />
+      <rect
+         rx="2.8559933"
+         ry="2.8559933"
+         y="207.244"
+         x="-557.48492"
+         height="9"
+         width="27"
+         id="rect276"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="scale(-1,1)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;DC_%LOC_%ROOM%L&quot;}" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:0.59578186;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.59578185, 0.59578185;stroke-dashoffset:0"
+         id="path278"
+         sodipodi:cx="119.808"
+         sodipodi:cy="234.44"
+         sodipodi:rx="16.384001"
+         sodipodi:ry="16.384001"
+         d="m 136.192,234.44 a 16.384001,16.384001 0 0 1 -16.48487,16.38369 L 119.808,234.44 Z"
+         transform="matrix(-1.6784667,0,0,-1.6784667,786.13873,609.74374)"
+         sodipodi:start="0"
+         sodipodi:end="1.5769529" />
+      <rect
+         rx="2.8559933"
+         ry="2.8559933"
+         y="-585.21429"
+         x="189.244"
+         height="9"
+         width="27"
+         id="rect280"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="matrix(0,1,-1,0,0,0)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;DC_%LOC_%ROOM%R&quot;}" />
+      <rect
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;DC_%LOC_%ROOM%R&quot;}"
+         transform="scale(-1,-1)"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="rect282"
+         width="27"
+         height="9"
+         x="-585.21429"
+         y="-216.244"
+         ry="2.8559933"
+         rx="2.8559933" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%LOC=T1&quot;,&quot;%ROOM=LV2&quot;,&quot;%R=A&quot;,&quot;%L=B&quot;]}"
+       transform="matrix(2.9607365,0,0,-2.9607365,620.91688,868.58655)"
+       id="g284">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:0.59578186;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.59578185, 0.59578185;stroke-dashoffset:0"
+         id="path286"
+         sodipodi:cx="119.808"
+         sodipodi:cy="234.44"
+         sodipodi:rx="16.384001"
+         sodipodi:ry="16.384001"
+         d="m 136.192,234.44 a 16.384001,16.384001 0 0 1 -16.48487,16.38369 L 119.808,234.44 Z"
+         transform="matrix(1.6784667,0,0,-1.6784667,329.56049,609.74374)"
+         sodipodi:start="0"
+         sodipodi:end="1.5769529" />
+      <rect
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;DC_%LOC_%ROOM&quot;}"
+         rx="2.8559933"
+         ry="2.8559933"
+         y="530.48492"
+         x="189.244"
+         height="9"
+         width="27"
+         id="rect288"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;DC_%LOC_%ROOM&quot;}"
+         transform="scale(-1,1)"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="rect290"
+         width="27"
+         height="9"
+         x="-557.48492"
+         y="207.244"
+         ry="2.8559933"
+         rx="2.8559933" />
+    </g>
+  </g>
+</svg>

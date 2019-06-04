@@ -1,0 +1,2505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="670"
+   height="450"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48+devel "
+   version="1.0"
+   sodipodi:docname="UninteruptiblePowerSupplyPanel.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}">
+  <defs
+     id="defs4">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6839-1"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,282.93948)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2522-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2524-4" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2526-0" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6841-9"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,287.83045)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6843-4"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,292.95429)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6845-8"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,298.07815)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6847-8"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,303.20199)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6849-2"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,308.32586)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6851-4"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,313.4497)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6853-5"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,318.57357)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6855-5"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,323.69741)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6857-1"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,328.82127)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6859-7"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,168.17482,333.94511)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6861-1"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.71475,282.93948)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6863-1"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.71475,288.06335)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6865-5"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.71475,293.18719)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6867-2"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,298.31106)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6869-7"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,303.4349)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6871-6"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,308.55873)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6873-1"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,313.6826)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6875-4"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,318.80647)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6877-2"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,323.93031)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6879-3"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,329.05415)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6881-2"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,334.17802)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6883-2"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,251.85244,339.30185)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6885-1"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,282.93948)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6887-6"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,288.06335)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6889-8"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,293.18719)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6891-5"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,298.31106)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6893-7"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,303.4349)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6895-6"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,308.55873)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6897-1"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,313.6826)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6899-8"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,318.80644)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6901-9"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,323.93031)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6903-2"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,329.05415)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7"
+       id="radialGradient6905-7"
+       gradientUnits="userSpaceOnUse"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,339.30185)" />
+    <radialGradient
+       r="8.1920004"
+       fy="496.61481"
+       fx="-445.52682"
+       cy="496.61481"
+       cx="-445.52682"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient7464"
+       xlink:href="#linearGradient2522-7"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.28430459,0,0,0.28430465,337.02944,334.17802)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1977778"
+     inkscape:cx="335"
+     inkscape:cy="225"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1789"
+     showgrid="true"
+     width="12px"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     inkscape:snap-smooth-nodes="true"
+     fit-margin-top="0.1"
+     fit-margin-left="0.1"
+     fit-margin-right="0.1"
+     fit-margin-bottom="0.1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid63"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.0001px"
+       spacingy="0.0001px"
+       originx="-138.15824px"
+       originy="-122.23682px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-138.15824,-467.7632)">
+    <g
+       id="g470"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%objadd=0008&quot;,&quot;%line=KS01&quot;,&quot;%SPadd=0108&quot;]}pen | 2: Close&quot;,&quot;-&quot;,&quot;Single Point Info 0105 - Earth Switch&quot;,&quot;0: Off | 1: On&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       transform="matrix(0,0.71816447,0.71816461,0,781.46153,2017.3702)" />
+    <g
+       id="g996"
+       inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;height&quot;:400,&quot;istag&quot;:0,&quot;src&quot;:&quot;SVG04_SLD4006_CPELV.svg&quot;,&quot;type&quot;:&quot;_self&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}"
+       transform="matrix(2.6177311,0,0,2.6177305,133.52641,-359.30837)" />
+    <g
+       id="g1789"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%tag=UPS_T1_01&quot;]}"
+       transform="matrix(2.6177311,0,0,2.6177305,48.9571,-359.30837)">
+      <rect
+         y="318.9993"
+         x="36.762203"
+         height="166.54437"
+         width="250.78589"
+         id="rect4378"
+         style="fill:#35506b;fill-opacity:1;stroke:#779cb9;stroke-width:1.54016066;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="162.21202"
+         y="328.89252"
+         id="text4380"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4382"
+           x="162.21202"
+           y="328.89252"
+           style="font-size:8.62489986px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">UPS-T1-01</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="265.3017"
+         y="337.7825"
+         id="text4418"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4420"
+           style="font-size:4.31244993px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="265.3017"
+           y="337.7825">V</tspan></text>
+      <rect
+         id="rect4482"
+         x="239.27205"
+         y="361.44644"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         id="rect4484"
+         x="239.27205"
+         y="354.23743"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="368.65552"
+         x="239.27205"
+         id="rect4486" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Ao_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Ao1&quot;},{&quot;data&quot;:&quot;UPS_Ao_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Ao1&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Ao1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Ao1&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4488"
+         y="359.40521"
+         x="242.47795"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.30325174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="359.40521"
+           x="242.47795"
+           id="tspan4490"
+           sodipodi:role="line">##0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="242.47795"
+         y="373.82327"
+         id="text4492"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Ao_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Ao3&quot;},{&quot;data&quot;:&quot;UPS_Ao_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Ao3&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Ao3&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Ao3&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4494"
+           x="242.47795"
+           y="373.82327"
+           style="font-size:4.30325174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Ao_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Ao2&quot;},{&quot;data&quot;:&quot;UPS_Ao_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Ao2&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Ao2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Ao2&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4496"
+         y="366.61423"
+         x="242.47795"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.30325174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="366.61423"
+           x="242.47795"
+           id="tspan4498"
+           sodipodi:role="line">##0.0</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="347.02838"
+         x="239.27205"
+         id="rect4500" />
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="332.61032"
+         x="239.27205"
+         id="rect4502" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="242.47795"
+         y="337.77811"
+         id="text4504"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Vo_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Vo1&quot;},{&quot;data&quot;:&quot;UPS_Vo_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Vo1&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Vo1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Vo1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4506"
+           x="242.47795"
+           y="337.77811"
+           style="font-size:4.30325174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <rect
+         id="rect4508"
+         x="239.27205"
+         y="339.81937"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Vo_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Vo2&quot;},{&quot;data&quot;:&quot;UPS_Vo_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Vo2&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Vo2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Vo2&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4510"
+         y="344.98715"
+         x="242.47795"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.30325174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="344.98715"
+           x="242.47795"
+           id="tspan4512"
+           sodipodi:role="line">##0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="242.47795"
+         y="352.19617"
+         id="text4514"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Vo_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Vo3&quot;},{&quot;data&quot;:&quot;UPS_Vo_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Vo3&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Vo3&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Vo3&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4516"
+           x="242.47795"
+           y="352.19617"
+           style="font-size:4.30325174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <rect
+         id="rect4518"
+         x="239.27205"
+         y="375.8645"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Hzo_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Hzo&quot;},{&quot;data&quot;:&quot;UPS_Hzo_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Hzo&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Hzo&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Hzo&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4520"
+         y="381.03229"
+         x="246.20969"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.30325174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="381.03229"
+           x="246.20969"
+           id="tspan4522"
+           sodipodi:role="line">#0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="199.68214"
+         y="337.7825"
+         id="text4566"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4568"
+           x="199.68214"
+           y="337.7825"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">OUTPUT VOLTAGE 1</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4570"
+         y="344.99155"
+         x="265.3017"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="344.99155"
+           x="265.3017"
+           sodipodi:role="line"
+           style="font-size:4.31244993px;fill:#ffffff;fill-opacity:1"
+           id="tspan4572">V</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4574"
+         y="344.99155"
+         x="199.68214"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="344.99155"
+           x="199.68214"
+           id="tspan4576"
+           sodipodi:role="line">OUTPUT VOLTAGE 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="265.3017"
+         y="352.20056"
+         id="text4578"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4580"
+           style="font-size:4.31244993px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="265.3017"
+           y="352.20056">V</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="199.68214"
+         y="352.20056"
+         id="text4582"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4584"
+           x="199.68214"
+           y="352.20056"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">OUTPUT VOLTAGE 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="265.30496"
+         y="359.38431"
+         id="text4586"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4588"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="265.30496"
+           y="359.38431">A</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4590"
+         y="359.4075"
+         x="199.92641"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="359.4075"
+           x="199.92641"
+           id="tspan4592"
+           sodipodi:role="line">OUTPUT CURRENT 1</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4594"
+         y="366.59332"
+         x="265.30496"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="366.59332"
+           x="265.30496"
+           sodipodi:role="line"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           id="tspan4596">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="199.92641"
+         y="366.61862"
+         id="text4598"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4600"
+           x="199.92641"
+           y="366.61862"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">OUTPUT CURRENT 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="265.30496"
+         y="373.80237"
+         id="text4602"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4604"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="265.30496"
+           y="373.80237">A</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4606"
+         y="373.82767"
+         x="199.92641"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="373.82767"
+           x="199.92641"
+           id="tspan4608"
+           sodipodi:role="line">OUTPUT CURRENT 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="266.35736"
+         y="381.01138"
+         id="text4610"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4612"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="266.35736"
+           y="381.01138">Hz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="200.79395"
+         y="380.62186"
+         id="text4614"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4616"
+           x="200.79395"
+           y="380.62186"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">OUTPUT FREQUENCY</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="383.07358"
+         x="239.27205"
+         id="rect4618" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="246.20142"
+         y="388.24463"
+         id="text4620"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_kVAo_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_kVAo1&quot;},{&quot;data&quot;:&quot;UPS_kVAo_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_kVAo1&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_kVAo1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_kVAo1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4622"
+           x="246.20142"
+           y="388.24463"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">#0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4624"
+         y="388.28979"
+         x="268.04788"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="388.28979"
+           x="268.04788"
+           sodipodi:role="line"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           id="tspan4626">kVA</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4628"
+         y="388.2457"
+         x="206.27716"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="388.2457"
+           x="206.27716"
+           id="tspan4630"
+           sodipodi:role="line">OUTPUT PHASE 1 POWER</tspan></text>
+      <rect
+         id="rect4632"
+         x="239.27205"
+         y="390.28259"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_kVAo_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_kVAo2&quot;},{&quot;data&quot;:&quot;UPS_kVAo_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_kVAo2&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_kVAo2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_kVAo2&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4634"
+         y="395.4537"
+         x="246.20142"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="395.4537"
+           x="246.20142"
+           id="tspan4636"
+           sodipodi:role="line">#0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="268.04788"
+         y="395.49884"
+         id="text4638"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4640"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="268.04788"
+           y="395.49884">kVA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="206.27716"
+         y="395.45474"
+         id="text4642"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4644"
+           x="206.27716"
+           y="395.45474"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">OUTPUT PHASE 2 POWER</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="397.49164"
+         x="239.27205"
+         id="rect4646" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="246.20142"
+         y="402.66275"
+         id="text4648"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_kVAo_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_kVAo3&quot;},{&quot;data&quot;:&quot;UPS_kVAo_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_kVAo3&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_kVAo3&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_kVAo2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4650"
+           x="246.20142"
+           y="402.66275"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">#0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4652"
+         y="402.70792"
+         x="268.04788"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="402.70792"
+           x="268.04788"
+           sodipodi:role="line"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           id="tspan4654">kVA</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4656"
+         y="402.66379"
+         x="206.27716"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="402.66379"
+           x="206.27716"
+           id="tspan4658"
+           sodipodi:role="line">OUTPUT PHASE 3 POWER</tspan></text>
+      <rect
+         id="rect4660"
+         x="239.27205"
+         y="404.70068"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_kWo_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_kWo&quot;},{&quot;data&quot;:&quot;UPS_kWo_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_kWo&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_kWo&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_kWo&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4662"
+         y="409.87177"
+         x="246.20142"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="409.87177"
+           x="246.20142"
+           id="tspan4664"
+           sodipodi:role="line">#0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="267.17361"
+         y="409.9169"
+         id="text4666"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4668"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="267.17361"
+           y="409.9169">kW</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="204.94637"
+         y="409.87277"
+         id="text4670"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4672"
+           x="204.94637"
+           y="409.87277"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">OUTPUT ACTIVE POWER</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4384"
+         y="337.78247"
+         x="75.613182"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="337.78247"
+           x="75.613182"
+           id="tspan4386"
+           sodipodi:role="line">INPUT VOLTAGE 1</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="361.44641"
+         x="117.29196"
+         id="rect4388" />
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="354.2374"
+         x="117.29196"
+         id="rect4390" />
+      <rect
+         id="rect4392"
+         x="117.29196"
+         y="368.65546"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="120.4816"
+         y="359.40848"
+         id="text4394"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Ai_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Ai1&quot;},{&quot;data&quot;:&quot;UPS_Ai_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Ai1&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Ai1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Ai1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4396"
+           x="120.4816"
+           y="359.40848"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4398"
+         y="359.38422"
+         x="143.32491"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="359.38422"
+           x="143.32491"
+           sodipodi:role="line"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           id="tspan4400">A</tspan></text>
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Ai_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Ai3&quot;},{&quot;data&quot;:&quot;UPS_Ai_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Ai3&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Ai3&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Ai3&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4402"
+         y="373.82654"
+         x="120.4816"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="373.82654"
+           x="120.4816"
+           id="tspan4404"
+           sodipodi:role="line">##0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="120.4816"
+         y="366.61752"
+         id="text4406"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Ai_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Ai2&quot;},{&quot;data&quot;:&quot;UPS_Ai_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Ai2&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Ai2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Ai2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4408"
+           x="120.4816"
+           y="366.61752"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <rect
+         id="rect4410"
+         x="117.29196"
+         y="347.02835"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         id="rect4412"
+         x="117.29196"
+         y="332.61032"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Vi_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Vi1&quot;},{&quot;data&quot;:&quot;UPS_Vi_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Vi1&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Vi1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Vi1&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4414"
+         y="337.7814"
+         x="120.4816"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="337.7814"
+           x="120.4816"
+           id="tspan4416"
+           sodipodi:role="line">##0.0</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="339.81934"
+         x="117.29196"
+         id="rect4422" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="120.49783"
+         y="344.98712"
+         id="text4424"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Vi_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Vi2&quot;},{&quot;data&quot;:&quot;UPS_Vi_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Vi2&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Vi2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Vi2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4426"
+           x="120.49783"
+           y="344.98712"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Vi_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Vi3&quot;},{&quot;data&quot;:&quot;UPS_Vi_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Vi3&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Vi3&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Vi3&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4428"
+         y="352.19611"
+         x="120.49783"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="352.19611"
+           x="120.49783"
+           id="tspan4430"
+           sodipodi:role="line">##0.0</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="375.86447"
+         x="117.29196"
+         id="rect4432" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="124.22129"
+         y="381.03558"
+         id="text4434"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_Hzi_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Hzi&quot;},{&quot;data&quot;:&quot;UPS_Hzi_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_Hzi&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_Hzi&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_Hzi&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4436"
+           x="124.22129"
+           y="381.03558"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">#0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4438"
+         y="381.01135"
+         x="144.37732"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="381.01135"
+           x="144.37732"
+           sodipodi:role="line"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           id="tspan4440">Hz</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4442"
+         y="337.78247"
+         x="143.32166"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="337.78247"
+           x="143.32166"
+           sodipodi:role="line"
+           style="font-size:4.31244993px;fill:#ffffff;fill-opacity:1"
+           id="tspan4444">V</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="143.32166"
+         y="352.19717"
+         id="text4446"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4448"
+           style="font-size:4.31244993px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="143.32166"
+           y="352.19717">V</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="75.613182"
+         y="344.98816"
+         id="text4450"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4452"
+           x="75.613182"
+           y="344.98816"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">INPUT VOLTAGE 2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4454"
+         y="352.19717"
+         x="75.613182"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="352.19717"
+           x="75.613182"
+           id="tspan4456"
+           sodipodi:role="line">INPUT VOLTAGE 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="75.857445"
+         y="359.40744"
+         id="text4458"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4460"
+           x="75.857445"
+           y="359.40744"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">INPUT CURRENT 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="143.32491"
+         y="366.59326"
+         id="text4462"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4464"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="143.32491"
+           y="366.59326">A</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4466"
+         y="366.61649"
+         x="75.857445"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="366.61649"
+           x="75.857445"
+           id="tspan4468"
+           sodipodi:role="line">INPUT CURRENT 2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470"
+         y="373.80228"
+         x="143.32491"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="373.80228"
+           x="143.32491"
+           sodipodi:role="line"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           id="tspan4472">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="75.857445"
+         y="373.8255"
+         id="text4474"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4476"
+           x="75.857445"
+           y="373.8255"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">INPUT CURRENT 3</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4478"
+         y="381.03665"
+         x="76.724983"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="381.03665"
+           x="76.724983"
+           id="tspan4480"
+           sodipodi:role="line">INPUT FREQUENCY</tspan></text>
+      <rect
+         id="rect4524"
+         x="117.29196"
+         y="383.07352"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_kVAi_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_kVAi1&quot;},{&quot;data&quot;:&quot;UPS_kVAi_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_kVAi1&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_kVAi1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_kVAi1&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4526"
+         y="388.2446"
+         x="124.22129"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="388.2446"
+           x="124.22129"
+           id="tspan4528"
+           sodipodi:role="line">#0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="146.06783"
+         y="388.28976"
+         id="text4530"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4532"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="146.06783"
+           y="388.28976">kVA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="82.208199"
+         y="388.24567"
+         id="text4534"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4536"
+           x="82.208199"
+           y="388.24567"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">INPUT PHASE 1 POWER</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="7.209023"
+         width="21.62653"
+         stroke-miterlimit="4"
+         y="390.28253"
+         x="117.29196"
+         id="rect4538" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="124.22129"
+         y="395.45364"
+         id="text4540"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_kVAi_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_kVAi2&quot;},{&quot;data&quot;:&quot;UPS_kVAi_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_kVAi2&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_kVAi2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_kVAi2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan4542"
+           x="124.22129"
+           y="395.45364"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">#0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4544"
+         y="395.49881"
+         x="146.06783"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="395.49881"
+           x="146.06783"
+           sodipodi:role="line"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           id="tspan4546">kVA</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4548"
+         y="395.45471"
+         x="82.208199"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="395.45471"
+           x="82.208199"
+           id="tspan4550"
+           sodipodi:role="line">INPUT PHASE 2 POWER</tspan></text>
+      <rect
+         id="rect4552"
+         x="117.29196"
+         y="397.49161"
+         stroke-miterlimit="4"
+         width="21.62653"
+         height="7.209023"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92409641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;UPS_kVAi_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_kVAi3&quot;},{&quot;data&quot;:&quot;UPS_kVAi_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_kVAi3&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_kVAi3&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%tag_kVAi3&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text4554"
+         y="402.66266"
+         x="124.22129"
+         style="font-size:5.37906504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="402.66266"
+           x="124.22129"
+           id="tspan4556"
+           sodipodi:role="line">#0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="146.06783"
+         y="402.70782"
+         id="text4558"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4560"
+           style="font-size:4.24285078px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="146.06783"
+           y="402.70782">kVA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="82.208199"
+         y="402.66373"
+         id="text4562"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4564"
+           x="82.208199"
+           y="402.66373"
+           style="font-size:4.31244993px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">INPUT PHASE 3 POWER</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.69794273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="143.32166"
+         y="344.98816"
+         id="text4674"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4676"
+           style="font-size:4.31244993px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="143.32166"
+           y="344.98816">V</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4678"
+         y="328.21747"
+         x="198.61464"
+         style="font-size:10.78745461px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:4.0044179px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="328.21747"
+           x="198.61464"
+           id="tspan4680"
+           sodipodi:role="line">(80kVA)</tspan></text>
+      <rect
+         style="fill:#282828;fill-opacity:1;stroke:#779cb9;stroke-width:1.54016066;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4692"
+         width="83.539925"
+         height="69.393494"
+         x="36.762184"
+         y="416.15018" />
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S00&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S00&quot;}]}"
+         id="path4696"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="42.407562"
+         cy="424.90088"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S00&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S00&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="67.158096"
+         y="426.08301"
+         id="text4698"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4700"
+           x="67.158096"
+           y="426.08301"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">INPUT MAINS HEALTY</tspan></text>
+      <ellipse
+         style="fill:url(#radialGradient6839-1);fill-opacity:1;stroke:none"
+         id="path4702"
+         cx="42.407562"
+         cy="424.90088"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <rect
+         id="rect4704"
+         x="37.774239"
+         y="416.88821"
+         stroke-miterlimit="4"
+         width="81.515816"
+         height="5.4507251"
+         style="opacity:0.98000004;fill:#010193;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4706"
+         y="420.79568"
+         x="78.504303"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="420.79568"
+           x="78.504303"
+           id="tspan4708"
+           sodipodi:role="line">STATUS</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4710"
+         y="430.97711"
+         x="59.535084"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S01&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S01&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="430.97711"
+           x="59.535084"
+           id="tspan4712"
+           sodipodi:role="line">INVERTER ON</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4714"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S01&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S01&quot;}]}"
+         cx="42.407562"
+         cy="429.79184"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path4716"
+         style="fill:url(#radialGradient6841-9);fill-opacity:1;stroke:none"
+         cx="42.407562"
+         cy="429.79184"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S02&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S02&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="59.934704"
+         y="436.10095"
+         id="text4718"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4720"
+           x="59.934704"
+           y="436.10095"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">RECTIFIER ON</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S02&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S02&quot;}]}"
+         id="path4722"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="42.407562"
+         cy="434.91568"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6843-4);fill-opacity:1;stroke:none"
+         id="path4724"
+         cx="42.407562"
+         cy="434.91568"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4726"
+         y="441.22482"
+         x="63.940437"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S05&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S05&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="441.22482"
+           x="63.940437"
+           id="tspan4728"
+           sodipodi:role="line">LOAD ON BATTERY</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4730"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S05&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S05&quot;}]}"
+         cx="42.407562"
+         cy="440.03955"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path4732"
+         style="fill:url(#radialGradient6845-8);fill-opacity:1;stroke:none"
+         cx="42.407562"
+         cy="440.03955"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S03&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S03&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="69.465065"
+         y="446.34866"
+         id="text4734"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4736"
+           x="69.465065"
+           y="446.34866"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">LOAD ON NORMAL MODE</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S03&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S03&quot;}]}"
+         id="path4738"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="42.407562"
+         cy="445.16339"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6847-8);fill-opacity:1;stroke:none"
+         id="path4740"
+         cx="42.407562"
+         cy="445.16339"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4743"
+         y="451.47253"
+         x="68.460442"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S08&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S08&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="451.47253"
+           x="68.460442"
+           id="tspan4745"
+           sodipodi:role="line">UPS IN STANDBY MODE</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4747"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S08&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S08&quot;}]}"
+         cx="42.407562"
+         cy="450.28726"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path4749"
+         style="fill:url(#radialGradient6849-2);fill-opacity:1;stroke:none"
+         cx="42.407562"
+         cy="450.28726"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S15&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_S15&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="59.835991"
+         y="456.59634"
+         id="text4751"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4753"
+           x="59.835991"
+           y="456.59634"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">LOW BATTERY</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S15&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_S15&quot;}]}"
+         id="path4755"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="42.407562"
+         cy="455.4111"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6851-4);fill-opacity:1;stroke:none"
+         id="path4758"
+         cx="42.407562"
+         cy="455.4111"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4760"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S16&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_S16&quot;}]}"
+         cx="42.407562"
+         cy="460.53497"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4762"
+         y="461.72018"
+         x="67.857025"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S16&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;%tag_S16&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="461.72018"
+           x="67.857025"
+           id="tspan4764"
+           sodipodi:role="line">BATTERY DISCHARGED</tspan></text>
+      <ellipse
+         id="path4766"
+         style="fill:url(#radialGradient6853-5);fill-opacity:1;stroke:none"
+         cx="42.407562"
+         cy="460.53497"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S17&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S17&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="58.215233"
+         y="466.84406"
+         id="text4768"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4770"
+           x="58.215233"
+           y="466.84406"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">BATTERY OK</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S17&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S17&quot;}]}"
+         id="path4772"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="42.407562"
+         cy="465.65881"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6855-5);fill-opacity:1;stroke:none"
+         id="path4774"
+         cx="42.407562"
+         cy="465.65881"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4776"
+         y="471.9679"
+         x="67.701004"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S27&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S27&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="471.9679"
+           x="67.701004"
+           id="tspan4778"
+           sodipodi:role="line">BATTERY CHARGER ON</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4780"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S27&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S27&quot;}]}"
+         cx="42.407562"
+         cy="470.78265"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path4782"
+         style="fill:url(#radialGradient6857-1);fill-opacity:1;stroke:none"
+         cx="42.407562"
+         cy="470.78265"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S48&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S48&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="66.284027"
+         y="477.09177"
+         id="text4784"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4786"
+           x="66.284027"
+           y="477.09177"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">MAINTENANCE MODE</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_S48&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;lime&quot;,&quot;tag&quot;:&quot;%tag_S48&quot;}]}"
+         id="path4788"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="42.407562"
+         cy="475.90649"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6859-7);fill-opacity:1;stroke:none"
+         id="path4790"
+         cx="42.407562"
+         cy="475.90649"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <rect
+         style="fill:#282828;fill-opacity:1;stroke:#779cb9;stroke-width:1.54016066;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect5214"
+         width="167.246"
+         height="69.393494"
+         x="120.30213"
+         y="416.15018" />
+      <rect
+         id="rect5312"
+         x="121.04302"
+         y="416.88824"
+         stroke-miterlimit="4"
+         width="165.59807"
+         height="5.4507251"
+         style="opacity:0.98000004;fill:#010193;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5314"
+         y="420.79889"
+         x="203.9734"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="420.79889"
+           x="203.9734"
+           id="tspan5316"
+           sodipodi:role="line">ALARM</tspan></text>
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A00&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A00&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="145.74339"
+         y="426.08615"
+         id="text5318"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5320"
+           x="145.74339"
+           y="426.08615"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">COMMON ALARM</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A00&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A00&quot;}]}"
+         id="path5322"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="125.9475"
+         cy="424.90088"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6861-1);fill-opacity:1;stroke:none"
+         id="path5324"
+         cx="125.9475"
+         cy="424.90088"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5326"
+         y="431.21002"
+         x="147.08556"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A01&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A01&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="431.21002"
+           x="147.08556"
+           id="tspan5328"
+           sodipodi:role="line">BATTERY FAILURE</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5330"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A01&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A01&quot;}]}"
+         cx="125.9475"
+         cy="430.02475"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5332"
+         style="fill:url(#radialGradient6863-1);fill-opacity:1;stroke:none"
+         cx="125.9475"
+         cy="430.02475"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A02&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A02&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="144.56523"
+         y="436.33386"
+         id="text5334"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5336"
+           x="144.56523"
+           y="436.33386"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">UPS OVERLOAD</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A02&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A02&quot;}]}"
+         id="path5338"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="125.9475"
+         cy="435.14859"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6865-5);fill-opacity:1;stroke:none"
+         id="path5340"
+         cx="125.9475"
+         cy="435.14859"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5342"
+         y="441.45773"
+         x="165.67018"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A03&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A03&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="441.45773"
+           x="165.67018"
+           id="tspan5344"
+           sodipodi:role="line">OUTPUT VOLTAGE OUT OF TOLERANCE</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5346"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A03&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A03&quot;}]}"
+         cx="126.08521"
+         cy="440.27246"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5348"
+         style="fill:url(#radialGradient6867-2);fill-opacity:1;stroke:none"
+         cx="126.08521"
+         cy="440.27246"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A05&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A05&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="164.09082"
+         y="446.58157"
+         id="text5350"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5352"
+           x="164.09082"
+           y="446.58157"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">INPUT VOLTAGE OUT OF TOLERANCE</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A05&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A05&quot;}]}"
+         id="path5354"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="126.08521"
+         cy="445.3963"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6869-7);fill-opacity:1;stroke:none"
+         id="path5356"
+         cx="126.08521"
+         cy="445.3963"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5358"
+         y="451.70541"
+         x="156.13507"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A07&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A07&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="451.70541"
+           x="156.13507"
+           id="tspan5360"
+           sodipodi:role="line">HIGH TEMPERATURE ALARM</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5362"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A07&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A07&quot;}]}"
+         cx="126.08521"
+         cy="450.52011"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5364"
+         style="fill:url(#radialGradient6871-6);fill-opacity:1;stroke:none"
+         cx="126.08521"
+         cy="450.52011"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A09&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A09&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="155.08588"
+         y="456.82928"
+         id="text5366"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5368"
+           x="155.08588"
+           y="456.82928"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">SHORT CIRCUIT DETECTED</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A09&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A09&quot;}]}"
+         id="path5370"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="126.08521"
+         cy="455.64398"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6873-1);fill-opacity:1;stroke:none"
+         id="path5372"
+         cx="126.08521"
+         cy="455.64398"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5374"
+         y="461.95313"
+         x="154.55411"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A11&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A11&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="461.95313"
+           x="154.55411"
+           id="tspan5376"
+           sodipodi:role="line">INVERTER OVER CURRENT</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5378"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A11&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A11&quot;}]}"
+         cx="126.08521"
+         cy="460.76785"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5380"
+         style="fill:url(#radialGradient6875-4);fill-opacity:1;stroke:none"
+         cx="126.08521"
+         cy="460.76785"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A14&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A14&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="162.82193"
+         y="467.07697"
+         id="text5382"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5384"
+           x="162.82193"
+           y="467.07697"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">BOOST OUTPUT VOLTAGE TOO LOW</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A14&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A14&quot;}]}"
+         id="path5386"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="126.08521"
+         cy="465.89169"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6877-2);fill-opacity:1;stroke:none"
+         id="path5388"
+         cx="126.08521"
+         cy="465.89169"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5390"
+         y="472.20081"
+         x="163.50334"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A15&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A15&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="472.20081"
+           x="163.50334"
+           id="tspan5392"
+           sodipodi:role="line">BOOST OUTPUT VOLTAGE TOO HIGH</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5394"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A15&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A15&quot;}]}"
+         cx="126.08521"
+         cy="471.01553"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5396"
+         style="fill:url(#radialGradient6879-3);fill-opacity:1;stroke:none"
+         cx="126.08521"
+         cy="471.01553"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A16&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A16&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="157.53612"
+         y="477.32468"
+         id="text5398"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5400"
+           x="157.53612"
+           y="477.32468"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">BATTERY VOLTAGE TOO HIGH</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A16&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A16&quot;}]}"
+         id="path5402"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="126.08521"
+         cy="476.1394"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6881-2);fill-opacity:1;stroke:none"
+         id="path5404"
+         cx="126.08521"
+         cy="476.1394"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5406"
+         y="482.44852"
+         x="159.06615"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A22&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A22&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="482.44852"
+           x="159.06615"
+           id="tspan5408"
+           sodipodi:role="line">INPUT MAINS GENERAL ALARM</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5410"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A22&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A22&quot;}]}"
+         cx="126.08521"
+         cy="481.26324"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5412"
+         style="fill:url(#radialGradient6883-2);fill-opacity:1;stroke:none"
+         cx="126.08521"
+         cy="481.26324"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5778"
+         y="426.08615"
+         x="241.3503"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A23&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A23&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="426.08615"
+           x="241.3503"
+           id="tspan5780"
+           sodipodi:role="line">RECTIFIER GENERAL ALARM</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5782"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A23&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A23&quot;}]}"
+         cx="211.26219"
+         cy="424.90088"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5784"
+         style="fill:url(#radialGradient6885-1);fill-opacity:1;stroke:none"
+         cx="211.26219"
+         cy="424.90088"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A24&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A24&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="237.71393"
+         y="431.21002"
+         id="text5786"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5788"
+           x="237.71393"
+           y="431.21002"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">BOOST GENERAL ALARM</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A24&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A24&quot;}]}"
+         id="path5790"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="211.26219"
+         cy="430.02475"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6887-6);fill-opacity:1;stroke:none"
+         id="path5792"
+         cx="211.26219"
+         cy="430.02475"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5794"
+         y="436.33386"
+         x="240.95065"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A25&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A25&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="436.33386"
+           x="240.95065"
+           id="tspan5796"
+           sodipodi:role="line">INVERTER GENERAL ALARM</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5798"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A25&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A25&quot;}]}"
+         cx="211.26219"
+         cy="435.14859"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5800"
+         style="fill:url(#radialGradient6889-8);fill-opacity:1;stroke:none"
+         cx="211.26219"
+         cy="435.14859"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A26&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A26&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="249.11661"
+         y="441.45773"
+         id="text5802"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5804"
+           x="249.11661"
+           y="441.45773"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">BATTERY CHARGER GENERAL ALARM</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A26&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A26&quot;}]}"
+         id="path5806"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="211.26219"
+         cy="440.27246"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6891-5);fill-opacity:1;stroke:none"
+         id="path5808"
+         cx="211.26219"
+         cy="440.27246"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5810"
+         y="446.58157"
+         x="243.09047"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A30&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A30&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="446.58157"
+           x="243.09047"
+           id="tspan5812"
+           sodipodi:role="line">UPS STOPPED FOR OVERLOAD</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5814"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A30&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A30&quot;}]}"
+         cx="211.26219"
+         cy="445.3963"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5816"
+         style="fill:url(#radialGradient6893-7);fill-opacity:1;stroke:none"
+         cx="211.26219"
+         cy="445.3963"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A44&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A44&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="235.99763"
+         y="451.70541"
+         id="text5818"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5820"
+           x="235.99763"
+           y="451.70541"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">MAINTENANCE ALARM</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A44&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A44&quot;}]}"
+         id="path5822"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="211.26219"
+         cy="450.52011"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6895-6);fill-opacity:1;stroke:none"
+         id="path5824"
+         cx="211.26219"
+         cy="450.52011"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5826"
+         y="456.82928"
+         x="236.57397"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A49&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A49&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="456.82928"
+           x="236.57397"
+           id="tspan5828"
+           sodipodi:role="line">BATTERY DISCHARGED</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5830"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A49&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A49&quot;}]}"
+         cx="211.26219"
+         cy="455.64398"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5832"
+         style="fill:url(#radialGradient6897-1);fill-opacity:1;stroke:none"
+         cx="211.26219"
+         cy="455.64398"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A52&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A52&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="231.6862"
+         y="461.95313"
+         id="text5834"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5836"
+           x="231.6862"
+           y="461.95313"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">RECTIFIER FAULT</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A52&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A52&quot;}]}"
+         id="path5838"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="211.26219"
+         cy="460.76782"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6899-8);fill-opacity:1;stroke:none"
+         id="path5840"
+         cx="211.26219"
+         cy="460.76782"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5842"
+         y="467.077"
+         x="231.28659"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A54&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A54&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="467.077"
+           x="231.28659"
+           id="tspan5844"
+           sodipodi:role="line">INVERTER FAULT</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5846"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A54&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A54&quot;}]}"
+         cx="211.26219"
+         cy="465.89169"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5848"
+         style="fill:url(#radialGradient6901-9);fill-opacity:1;stroke:none"
+         cx="211.26219"
+         cy="465.89169"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A59&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A59&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="237.78081"
+         y="472.20084"
+         id="text5850"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5852"
+           x="237.78081"
+           y="472.20084"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">BATTERY OPEN CIRCUIT</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A59&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A59&quot;}]}"
+         id="path5854"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="211.26219"
+         cy="471.01553"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient6903-2);fill-opacity:1;stroke:none"
+         id="path5856"
+         cx="211.26219"
+         cy="471.01553"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5858"
+         y="482.44855"
+         x="239.0704"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A61&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A61&quot;}]}"><tspan
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="482.44855"
+           x="239.0704"
+           id="tspan5860"
+           sodipodi:role="line">PHASE DETECTION FAULT</tspan></text>
+      <ellipse
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5862"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A61&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A61&quot;}]}"
+         cx="211.26219"
+         cy="481.26324"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         id="path5864"
+         style="fill:url(#radialGradient6905-7);fill-opacity:1;stroke:none"
+         cx="211.26219"
+         cy="481.26324"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A60&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A60&quot;}]}"
+         xml:space="preserve"
+         style="font-size:8.15636826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="227.64862"
+         y="477.32471"
+         id="text5866"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5868"
+           x="227.64862"
+           y="477.32471"
+           style="font-size:3.26063299px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">FAN FAILURE</tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_A60&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_A60&quot;}]}"
+         id="path5870"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.46580473;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="211.26219"
+         cy="476.1394"
+         rx="2.3290234"
+         ry="2.3290238" />
+      <ellipse
+         style="fill:url(#radialGradient7464);fill-opacity:1;stroke:none"
+         id="path5872"
+         cx="211.26219"
+         cy="476.1394"
+         rx="2.3290234"
+         ry="2.3290238" />
+    </g>
+  </g>
+</svg>

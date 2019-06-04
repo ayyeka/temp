@@ -1,0 +1,2116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1016.2234"
+   height="418.02548"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48+devel "
+   version="1.0"
+   sodipodi:docname="SyncGeneratorSet_w_DisplayPanel.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1625-4">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop1627-2" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop1629-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1625-4"
+       id="linearGradient7392"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1465.7138,-1496.3969)"
+       x1="1400.832"
+       y1="827.92798"
+       x2="1400.832"
+       y2="836.12" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2522-7-1-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2524-4-7-4" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2526-0-4-0" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient4088"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient4090"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient4092"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient4094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient4096"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient4098"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient4100"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient2700"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient2702"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1625-4"
+       id="linearGradient2882"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1166.2874,-1496.3969)"
+       x1="1400.832"
+       y1="827.92798"
+       x2="1400.832"
+       y2="836.12" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3132"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3134"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3136"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3138"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3140"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3142"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3144"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3146"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2522-7-1-7"
+       id="radialGradient3148"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3859925,0.41838333)"
+       cx="-445.52682"
+       cy="496.61481"
+       fx="-445.52682"
+       fy="496.61481"
+       r="8.1920004" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1867469"
+     inkscape:cx="508.11169"
+     inkscape:cy="209.01274"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     width="12px"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     inkscape:snap-smooth-nodes="true"
+     fit-margin-top="0.1"
+     fit-margin-left="0.1"
+     fit-margin-right="0.1"
+     fit-margin-bottom="0.1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid63"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.0001px"
+       spacingy="0.0001px"
+       originx="-2734.6932px"
+       originy="-519.7528px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2734.6932,-102.22173)">
+    <g
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%LOC=T1&quot;,&quot;%NO=02&quot;]}"
+       id="g3044"
+       transform="translate(503.95641,0)">
+      <rect
+         style="fill:#35506b;fill-opacity:1;stroke:#779cb9;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3046"
+         width="503.7478"
+         height="221.18399"
+         x="2739.0276"
+         y="294.52802" />
+      <rect
+         style="fill:#282828;fill-opacity:1;stroke:#779cb9;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3048"
+         width="182.10155"
+         height="146.63603"
+         x="3032.9695"
+         y="331.5325" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_EF&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_EF&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-19.981354)"
+         id="path3050"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_EF&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_EF&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3131.1218"
+         y="372.5759"
+         id="text3052"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3054"
+           x="3131.1218"
+           y="372.5759"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">EARTH FAULT/OVERCURRENT</tspan></text>
+      <circle
+         style="fill:url(#radialGradient3132);fill-opacity:1;stroke:none"
+         id="path3056"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-19.981354)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <rect
+         id="rect3058"
+         x="3035.071"
+         y="333.30844"
+         stroke-miterlimit="4"
+         width="177.89789"
+         height="14.948098"
+         style="opacity:0.98000004;fill:#010193;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3060"
+         y="344.02454"
+         x="3124.3804"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="344.02454"
+           x="3124.3804"
+           id="tspan3062"
+           sodipodi:role="line">ALARM</tspan></text>
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3064"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-5.929671)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Trip&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Trip&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3066"
+         y="386.62759"
+         x="3069.1523"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Trip&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Trip&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="386.62759"
+           x="3069.1523"
+           id="tspan3068"
+           sodipodi:role="line">TRIP</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-5.929671)"
+         id="path3070"
+         style="fill:url(#radialGradient3134);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3072"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-34.033037)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Alarm&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Alarm&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3074"
+         y="358.52423"
+         x="3099.0259"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Alarm&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Alarm&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="358.52423"
+           x="3099.0259"
+           id="tspan3076"
+           sodipodi:role="line">GENERAL ALARM</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-34.033037)"
+         id="path3078"
+         style="fill:url(#radialGradient3136);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Batt_Lo&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Batt_Lo&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,8.122012)"
+         id="path3080"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Batt_Lo&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Batt_Lo&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3092.28"
+         y="400.67926"
+         id="text3082"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3084"
+           x="3092.28"
+           y="400.67926"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">BATTERY LOW</tspan></text>
+      <circle
+         style="fill:url(#radialGradient3138);fill-opacity:1;stroke:none"
+         id="path3086"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,8.122012)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3088"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,22.173695)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Lo_Press&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Lo_Press&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3090"
+         y="414.73096"
+         x="3106.4529"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Lo_Press&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Lo_Press&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="414.73096"
+           x="3106.4529"
+           id="tspan3092"
+           sodipodi:role="line">LOW OIL PRESSURE</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,22.173695)"
+         id="path3094"
+         style="fill:url(#radialGradient3140);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Overspeed&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Overspeed&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,36.225378)"
+         id="path3096"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Overspeed&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Overspeed&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3086.6609"
+         y="428.78262"
+         id="text3098"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3100"
+           x="3086.6609"
+           y="428.78262"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">OVERSPEED</tspan></text>
+      <circle
+         style="fill:url(#radialGradient3142);fill-opacity:1;stroke:none"
+         id="path3102"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,36.225378)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3104"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,50.277061)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Hi_Temp&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Hi_Temp&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3106"
+         y="442.83432"
+         x="3127.8647"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Hi_Temp&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Hi_Temp&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="442.83432"
+           x="3127.8647"
+           id="tspan3108"
+           sodipodi:role="line">HIGH WATER TEMPERATURE</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,50.277061)"
+         id="path3110"
+         style="fill:url(#radialGradient3144);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fuel_Lo&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fuel_Lo&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,64.328744)"
+         id="path3112"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fuel_Lo&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fuel_Lo&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3092.5159"
+         y="456.88602"
+         id="text3114"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3116"
+           x="3092.5159"
+           y="456.88602"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">FUEL OIL LOW</tspan></text>
+      <circle
+         style="fill:url(#radialGradient3146);fill-opacity:1;stroke:none"
+         id="path3118"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,64.328744)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3120"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,78.380427)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fail&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fail&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3122"
+         y="470.93765"
+         x="3094.0615"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fail&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fail&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="470.93765"
+           x="3094.0615"
+           id="tspan3124"
+           sodipodi:role="line">FAIL TO START</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,78.380427)"
+         id="path3126"
+         style="fill:url(#radialGradient3148);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3128"
+         y="425.46445"
+         x="2863.8074"
+         style="font-size:35.72063828px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="425.46445"
+           x="2863.8074"
+           id="tspan3130"
+           sodipodi:role="line">GS-T1-02</tspan></text>
+    </g>
+    <path
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_T1_02_Run&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;GS_T1_02_Run&quot;}]}"
+       inkscape:connector-curvature="0"
+       id="path2811"
+       d="m 3473.9197,425.6 0,-32.768"
+       style="fill:none;stroke:#ffffff;stroke-width:7.39286947;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <g
+       transform="matrix(1.6832805,0,0,1.6832805,1114.9586,-897.27194)"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%tag=GS_T1_02&quot;]}"
+       id="g2813">
+      <rect
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect2815"
+         width="42.245998"
+         height="3.6810064"
+         x="1380.2839"
+         y="832.02399" />
+      <path
+         style="fill:url(#linearGradient2882);fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         d="m 1390.0564,823.99274 -9.7724,8.03125 42.246,0 -9.7726,-8.03125 -22.701,0 z"
+         id="path2817"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path2819"
+         transform="translate(324.15891,538.80801)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;$%tag_Trip||$%tag_Alarm||$%tag_Batt_Lo||$%tag_Lo_Press||$%tag_Overspeed||$%tag_Hi_Temp||$%tag_Fuel_Lo||$%tag_Fail&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Run&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;%tag_Run&quot;}]}"
+         cx="1077.248"
+         cy="270.68799"
+         r="20.48"
+         d="m 1097.728,270.68799 a 20.48,20.48 0 0 1 -20.48,20.48 20.48,20.48 0 0 1 -20.48,-20.48 20.48,20.48 0 0 1 20.48,-20.48 20.48,20.48 0 0 1 20.48,20.48 z" />
+      <g
+         id="g2821"
+         transform="matrix(0.36306231,0,0,0.36306231,987.89714,517.91535)">
+        <path
+           sodipodi:open="true"
+           sodipodi:end="3.1415927"
+           sodipodi:start="0"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000;stroke-width:2.75434828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2823"
+           sodipodi:cx="1077.248"
+           sodipodi:cy="270.68799"
+           sodipodi:rx="20.48"
+           sodipodi:ry="20.48"
+           d="m 1097.728,270.68799 a 20.48,20.48 0 1 1 -40.96,0"
+           transform="translate(82.681934,533.42604)" />
+        <path
+           transform="matrix(1,0,0,-1,40.721943,1073.802)"
+           d="m 1097.728,270.68799 a 20.48,20.48 0 1 1 -40.96,0"
+           sodipodi:ry="20.48"
+           sodipodi:rx="20.48"
+           sodipodi:cy="270.68799"
+           sodipodi:cx="1077.248"
+           id="path2825"
+           style="fill:none;stroke:#000000;stroke-width:2.75434828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           sodipodi:open="true" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:12.24154377;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2827"
+           transform="matrix(0.22500005,0,0,0.22500005,896.56909,742.7092)"
+           cx="1077.248"
+           cy="270.68799"
+           r="20.48"
+           d="m 1097.728,270.68799 a 20.48,20.48 0 0 1 -20.48,20.48 20.48,20.48 0 0 1 -20.48,-20.48 20.48,20.48 0 0 1 20.48,-20.48 20.48,20.48 0 0 1 20.48,20.48 z" />
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#ffffff;stroke-width:7.39286995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 3473.9196,335.488 0,-31.37644"
+       id="path2829"
+       inkscape:connector-curvature="0"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;$GS_T1_02_ACB_On&amp;&amp;$GS_T1_02_Run&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;$GS_T1_02_ACB_On&amp;&amp;$GS_T1_02_Run&quot;}]}" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2831"
+       y="455.95316"
+       x="3429.073"
+       style="font-size:35.72063828px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       xml:space="preserve"><tspan
+         id="tspan2833"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="455.95316"
+         x="3434.5488"
+         sodipodi:role="line">1000KVA </tspan><tspan
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="475.97861"
+         x="3429.073"
+         sodipodi:role="line"
+         id="tspan2835">415V 3 PHASE</tspan><tspan
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="496.00406"
+         x="3429.073"
+         sodipodi:role="line"
+         id="tspan2837">GENERATOR SET</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text2839"
+       y="328.33502"
+       x="3353.3518"
+       style="font-size:35.72063828px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       xml:space="preserve"><tspan
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="328.33502"
+         x="3353.3518"
+         id="tspan2841"
+         sodipodi:role="line">2500A</tspan><tspan
+         id="tspan2843"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="348.36047"
+         x="3353.3518"
+         sodipodi:role="line">TPN</tspan><tspan
+         id="tspan2845"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="368.38593"
+         x="3353.3518"
+         sodipodi:role="line">ACB</tspan><tspan
+         id="tspan2847"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="388.41141"
+         x="3353.3518"
+         sodipodi:role="line">(50KVA)</tspan></text>
+    <g
+       id="g3931"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%LOC=T1&quot;,&quot;%NO=01&quot;]}">
+      <rect
+         y="294.52802"
+         x="2739.0276"
+         height="221.18399"
+         width="503.7478"
+         id="rect3833"
+         style="fill:#35506b;fill-opacity:1;stroke:#779cb9;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="331.5325"
+         x="3032.9695"
+         height="146.63603"
+         width="182.10155"
+         id="rect3841"
+         style="fill:#282828;fill-opacity:1;stroke:#779cb9;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3843"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-19.981354)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_EF&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_EF&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3845"
+         y="372.5759"
+         x="3131.1218"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_EF&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_EF&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="372.5759"
+           x="3131.1218"
+           id="tspan3847"
+           sodipodi:role="line">EARTH FAULT/OVERCURRENT</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-19.981354)"
+         id="path3849"
+         style="fill:url(#radialGradient4090);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <rect
+         style="opacity:0.98000004;fill:#010193;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         height="14.948098"
+         width="177.89789"
+         stroke-miterlimit="4"
+         y="333.30844"
+         x="3035.071"
+         id="rect3851" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3124.3804"
+         y="344.02454"
+         id="text3853"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3855"
+           x="3124.3804"
+           y="344.02454"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">ALARM</tspan></text>
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Trip&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Trip&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-5.929671)"
+         id="path3950"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Trip&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Trip&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3069.1523"
+         y="386.62759"
+         id="text3952"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3954"
+           x="3069.1523"
+           y="386.62759"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">TRIP</tspan></text>
+      <circle
+         style="fill:url(#radialGradient4092);fill-opacity:1;stroke:none"
+         id="path3956"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-5.929671)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Alarm&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Alarm&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-34.033037)"
+         id="path3970"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Alarm&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Alarm&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3099.0259"
+         y="358.52423"
+         id="text3972"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3974"
+           x="3099.0259"
+           y="358.52423"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">GENERAL ALARM</tspan></text>
+      <circle
+         style="fill:url(#radialGradient4088);fill-opacity:1;stroke:none"
+         id="path3976"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,-34.033037)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3982"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,8.122012)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Batt_Lo&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Batt_Lo&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3984"
+         y="400.67926"
+         x="3092.28"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Batt_Lo&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Batt_Lo&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="400.67926"
+           x="3092.28"
+           id="tspan3986"
+           sodipodi:role="line">BATTERY LOW</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,8.122012)"
+         id="path3988"
+         style="fill:url(#radialGradient4094);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Lo_Press&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Lo_Press&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,22.173695)"
+         id="path3994"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Lo_Press&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Lo_Press&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3106.4529"
+         y="414.73096"
+         id="text3996"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3998"
+           x="3106.4529"
+           y="414.73096"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">LOW OIL PRESSURE</tspan></text>
+      <circle
+         style="fill:url(#radialGradient4096);fill-opacity:1;stroke:none"
+         id="path4000"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,22.173695)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4006"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,36.225378)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Overspeed&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Overspeed&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4008"
+         y="428.78262"
+         x="3086.6609"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Overspeed&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Overspeed&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="428.78262"
+           x="3086.6609"
+           id="tspan4010"
+           sodipodi:role="line">OVERSPEED</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,36.225378)"
+         id="path4012"
+         style="fill:url(#radialGradient4098);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Hi_Temp&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Hi_Temp&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,50.277061)"
+         id="path4018"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Hi_Temp&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Hi_Temp&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3127.8647"
+         y="442.83432"
+         id="text4020"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4022"
+           x="3127.8647"
+           y="442.83432"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">HIGH WATER TEMPERATURE</tspan></text>
+      <circle
+         style="fill:url(#radialGradient4100);fill-opacity:1;stroke:none"
+         id="path4024"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,50.277061)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4030"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,64.328744)"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fuel_Lo&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fuel_Lo&quot;}]}"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4032"
+         y="456.88602"
+         x="3092.5159"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fuel_Lo&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fuel_Lo&quot;}]}"><tspan
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="456.88602"
+           x="3092.5159"
+           id="tspan4034"
+           sodipodi:role="line">FUEL OIL LOW</tspan></text>
+      <circle
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,64.328744)"
+         id="path4036"
+         style="fill:url(#radialGradient2702);fill-opacity:1;stroke:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fail&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fail&quot;}]}"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,78.380427)"
+         id="path4042"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.63840008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fail&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00&quot;,&quot;tag&quot;:&quot;GS_%LOC_%NO_Fail&quot;}]}"
+         xml:space="preserve"
+         style="font-size:22.36807632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="3094.0615"
+         y="470.93765"
+         id="text4044"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4046"
+           x="3094.0615"
+           y="470.93765"
+           style="font-size:8.94198036px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">FAIL TO START</tspan></text>
+      <circle
+         style="fill:url(#radialGradient2700);fill-opacity:1;stroke:none"
+         id="path4048"
+         transform="matrix(0.77967876,0,0,0.77967873,3391.2127,78.380427)"
+         cx="-442.36801"
+         cy="499.328"
+         r="8.1920004"
+         d="m -434.17601,499.328 a 8.1920004,8.1920004 0 0 1 -8.192,8.192 8.1920004,8.1920004 0 0 1 -8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,-8.192 8.1920004,8.1920004 0 0 1 8.192,8.192 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:35.72063828px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="2863.8074"
+         y="425.46445"
+         id="text3837"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3839"
+           x="2863.8074"
+           y="425.46445"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">GS-T1-01</tspan></text>
+    </g>
+    <g
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%LOC=T1&quot;,&quot;%NO=01&quot;]}"
+       id="g2023"
+       transform="matrix(0.8267137,0,0,0.8267137,1400.6563,-290.76253)">
+      <rect
+         style="fill:#35506b;fill-opacity:1;stroke:#779cb9;stroke-width:3.6288259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect2025"
+         width="1218.9275"
+         height="200.68629"
+         x="1618.9056"
+         y="509.92505" />
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.48632312;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="27.197361"
+         width="183.87018"
+         stroke-miterlimit="4"
+         y="520.00848"
+         x="2566.9502"
+         id="rect2067" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.29351044px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="2583.8096"
+         y="539.51752"
+         id="text2069"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;4294967295&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kWh&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kWh&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan2071"
+           x="2583.8096"
+           y="539.51752"
+           style="font-size:16.26951027px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">#########0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2073"
+         y="539.68793"
+         x="2781.5066"
+         style="font-size:36.58727264px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="539.68793"
+           x="2781.5066"
+           sodipodi:role="line"
+           style="font-size:16.00693321px;fill:#ffffff;fill-opacity:1"
+           id="tspan2075">kWh</tspan></text>
+      <rect
+         id="rect2077"
+         x="2566.9502"
+         y="555.85327"
+         stroke-miterlimit="4"
+         width="183.87022"
+         height="27.197361"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.4862721;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:36.58727264px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="2791.0732"
+         y="575.53253"
+         id="text2079"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan2081"
+           style="font-size:16.00693321px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="2791.0732"
+           y="575.53253">kVARh</tspan></text>
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;4294967295&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVARh&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVARh&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text2083"
+         y="575.36237"
+         x="2583.8096"
+         style="font-size:20.29351044px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.26951027px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="575.36237"
+           x="2583.8096"
+           id="tspan2085"
+           sodipodi:role="line">#########0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:36.58727264px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="2467.5947"
+         y="539.68793"
+         id="text2087"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan2089"
+           style="font-size:16.00693321px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="2467.5947"
+           y="539.68793">KILOWATT HOUR</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2091"
+         y="575.53253"
+         x="2474.2539"
+         style="font-size:36.58727264px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="575.53253"
+           x="2474.2539"
+           sodipodi:role="line"
+           style="font-size:16.00693321px;fill:#ffffff;fill-opacity:1"
+           id="tspan2093">REACTIVE ENERGY</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="27.633808"
+         width="82.899384"
+         stroke-miterlimit="4"
+         y="554.28717"
+         x="1896.8394"
+         id="rect2095" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="1923.4006"
+         y="574.10919"
+         id="text2097"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_Hz_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_Hz&quot;},{&quot;data&quot;:&quot;SY_Hz_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_Hz&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_Hz&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_Hz&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan2099"
+           x="1923.4006"
+           y="574.10919"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">#0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2101"
+         y="574.01636"
+         x="2000.6631"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="574.01636"
+           x="2000.6631"
+           sodipodi:role="line"
+           style="font-size:16.26380539px;fill:#ffffff;fill-opacity:1"
+           id="tspan2103">Hz</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2105"
+         y="574.11334"
+         x="1756.04"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="574.11334"
+           x="1756.04"
+           id="tspan2107"
+           sodipodi:role="line">FREQUENCY</tspan></text>
+      <rect
+         id="rect2109"
+         x="1896.8394"
+         y="581.92108"
+         stroke-miterlimit="4"
+         width="82.899384"
+         height="27.633808"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_kW_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kW&quot;},{&quot;data&quot;:&quot;SY_kW_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kW&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kW&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kW&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text2111"
+         y="601.74304"
+         x="1923.4006"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="601.74304"
+           x="1923.4006"
+           id="tspan2113"
+           sodipodi:role="line">#0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="2003.792"
+         y="601.9162"
+         id="text2115"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan2117"
+           style="font-size:16.26380539px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="2003.792"
+           y="601.9162">kW</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="1761.238"
+         y="601.74713"
+         id="text2119"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2121"
+           x="1761.238"
+           y="601.74713"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">REAL POWER</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="27.633808"
+         width="82.899384"
+         stroke-miterlimit="4"
+         y="609.55481"
+         x="1896.8394"
+         id="rect2123" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="1923.4006"
+         y="629.37695"
+         id="text2125"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_kVA_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVA&quot;},{&quot;data&quot;:&quot;SY_kVA_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVA&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVA&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVA&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan2127"
+           x="1923.4006"
+           y="629.37695"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">#0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2129"
+         y="629.55005"
+         x="2007.1433"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="629.55005"
+           x="2007.1433"
+           sodipodi:role="line"
+           style="font-size:16.26380539px;fill:#ffffff;fill-opacity:1"
+           id="tspan2131">kVA</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2133"
+         y="629.38104"
+         x="1788.4878"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="629.38104"
+           x="1788.4878"
+           id="tspan2135"
+           sodipodi:role="line">APPARENT POWER</tspan></text>
+      <rect
+         id="rect2137"
+         x="1896.8394"
+         y="637.18884"
+         stroke-miterlimit="4"
+         width="82.899384"
+         height="27.633808"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54221797;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_kVAR_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVAR&quot;},{&quot;data&quot;:&quot;SY_kVAR_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVAR&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVAR&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_kVAR&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text2139"
+         y="657.01074"
+         x="1923.4006"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="657.01074"
+           x="1923.4006"
+           id="tspan2141"
+           sodipodi:role="line">#0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="2013.512"
+         y="657.1839"
+         id="text2143"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan2145"
+           style="font-size:16.26380539px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="2013.512"
+           y="657.1839">kVAR</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="1784.0806"
+         y="657.01477"
+         id="text2147"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2149"
+           x="1784.0806"
+           y="657.01477"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">REACTIVE POWER</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54221797;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="27.633808"
+         width="82.899384"
+         stroke-miterlimit="4"
+         y="664.82269"
+         x="1896.8394"
+         id="rect2151" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="1909.0654"
+         y="684.64478"
+         id="text2153"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_PF&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_PF&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan2155"
+           x="1909.0654"
+           y="684.64478"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">0.##0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2157"
+         y="684.64886"
+         x="1774.3464"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="684.64886"
+           x="1774.3464"
+           id="tspan2159"
+           sodipodi:role="line">POWER FACTOR</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2161"
+         y="546.47955"
+         x="2111.7761"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="546.47955"
+           x="2111.7761"
+           id="tspan2163"
+           sodipodi:role="line">VOLTAGE 1</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="27.633808"
+         width="105.32251"
+         stroke-miterlimit="4"
+         y="637.18872"
+         x="2168.9624"
+         id="rect2165" />
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="27.633808"
+         width="105.32251"
+         stroke-miterlimit="4"
+         y="609.55499"
+         x="2168.9624"
+         id="rect2167" />
+      <rect
+         id="rect2169"
+         x="2168.9624"
+         y="664.82263"
+         stroke-miterlimit="4"
+         width="105.32251"
+         height="27.633808"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="2199.9141"
+         y="629.37695"
+         id="text2171"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_A_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A1&quot;},{&quot;data&quot;:&quot;SY_A_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A1&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan2173"
+           x="2199.9141"
+           y="629.37695"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2175"
+         y="629.284"
+         x="2287.4778"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="629.284"
+           x="2287.4778"
+           sodipodi:role="line"
+           style="font-size:16.26380539px;fill:#ffffff;fill-opacity:1"
+           id="tspan2177">A</tspan></text>
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_A_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A3&quot;},{&quot;data&quot;:&quot;SY_A_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A3&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A3&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A3&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text2179"
+         y="684.64459"
+         x="2199.9141"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="684.64459"
+           x="2199.9141"
+           id="tspan2181"
+           sodipodi:role="line">##0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="2199.9141"
+         y="657.01086"
+         id="text2183"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_A_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A2&quot;},{&quot;data&quot;:&quot;SY_A_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A2&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_A2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan2185"
+           x="2199.9141"
+           y="657.01086"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <rect
+         id="rect2187"
+         x="2168.9624"
+         y="581.92108"
+         stroke-miterlimit="4"
+         width="105.32251"
+         height="27.633808"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         id="rect2189"
+         x="2168.9624"
+         y="526.6535"
+         stroke-miterlimit="4"
+         width="105.32251"
+         height="27.633808"
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_V_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V1&quot;},{&quot;data&quot;:&quot;SY_V_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V1&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V1&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text2191"
+         y="546.47546"
+         x="2199.9141"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="546.47546"
+           x="2199.9141"
+           id="tspan2193"
+           sodipodi:role="line">##0.0</tspan></text>
+      <rect
+         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54227018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="27.633808"
+         width="105.32251"
+         stroke-miterlimit="4"
+         y="554.28729"
+         x="2168.9624"
+         id="rect2195" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="2199.9763"
+         y="574.09662"
+         id="text2197"
+         sodipodi:linespacing="125%"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_V_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V2&quot;},{&quot;data&quot;:&quot;SY_V_Max&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V2&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan2199"
+           x="2199.9763"
+           y="574.09662"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">##0.0</tspan></text>
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;SY_V_Limit&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V3&quot;},{&quot;data&quot;:&quot;SY_V_Limit&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V3&quot;},{&quot;data&quot;:&quot;32767&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V3&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;SY_%LOC_%NO_V3&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         sodipodi:linespacing="125%"
+         id="text2201"
+         y="601.73029"
+         x="2199.9763"
+         style="font-size:20.61917114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="601.73029"
+           x="2199.9763"
+           id="tspan2203"
+           sodipodi:role="line">##0.0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2205"
+         y="546.47955"
+         x="2287.4648"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="546.47955"
+           x="2287.4648"
+           sodipodi:role="line"
+           style="font-size:16.53059387px;fill:#ffffff;fill-opacity:1"
+           id="tspan2207">V</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="2287.4651"
+         y="601.73438"
+         id="text2209"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan2211"
+           style="font-size:16.53059387px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="2287.4651"
+           y="601.73438">V</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="2111.7764"
+         y="574.10059"
+         id="text2213"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2215"
+           x="2111.7764"
+           y="574.10059"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">VOLTAGE 2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2217"
+         y="601.73438"
+         x="2111.7764"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="601.73438"
+           x="2111.7764"
+           id="tspan2219"
+           sodipodi:role="line">VOLTAGE 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="2112.075"
+         y="629.37299"
+         id="text2221"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2223"
+           x="2112.075"
+           y="629.37299"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">CURRENT 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="2287.4778"
+         y="656.91785"
+         id="text2225"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan2227"
+           style="font-size:16.26380539px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="2287.4778"
+           y="656.91785">A</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2229"
+         y="657.0069"
+         x="2112.075"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           y="657.0069"
+           x="2112.075"
+           id="tspan2231"
+           sodipodi:role="line">CURRENT 2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2233"
+         y="684.55157"
+         x="2287.4778"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         xml:space="preserve"><tspan
+           y="684.55157"
+           x="2287.4778"
+           sodipodi:role="line"
+           style="font-size:16.26380539px;fill:#ffffff;fill-opacity:1"
+           id="tspan2235">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:41.35074615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="2112.075"
+         y="684.64063"
+         id="text2237"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2239"
+           x="2112.075"
+           y="684.64063"
+           style="font-size:16.53059387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">CURRENT 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:37.17440796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         x="2287.4651"
+         y="574.10059"
+         id="text2241"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan2243"
+           style="font-size:16.53059387px;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="2287.4651"
+           y="574.10059">V</tspan></text>
+    </g>
+    <g
+       id="g470"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%objadd=0008&quot;,&quot;%line=KS01&quot;,&quot;%SPadd=0108&quot;]}pen | 2: Close&quot;,&quot;-&quot;,&quot;Single Point Info 0105 - Earth Switch&quot;,&quot;0: Off | 1: On&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       transform="matrix(0,0.2554721,0.2554721,0,277.98866,1016.0349)" />
+    <g
+       id="g1332"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%tag=MB_T1_01_ACB2&quot;,&quot;%E=TX_T1_03_E&quot;]}"
+       transform="translate(694.63313,16.418274)" />
+    <g
+       id="g470-6"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%objadd=0008&quot;,&quot;%line=KS01&quot;,&quot;%SPadd=0108&quot;]}pen | 2: Close&quot;,&quot;-&quot;,&quot;Single Point Info 0105 - Earth Switch&quot;,&quot;0: Off | 1: On&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       transform="matrix(0,0.2554721,0.2554721,0,-573.97934,1977.8589)" />
+    <g
+       id="g1332-7"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%tag=MB_T1_01_ACB2&quot;,&quot;%E=TX_T1_03_E&quot;]}"
+       transform="translate(-157.33487,978.24227)" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#ffffff;stroke-width:7.39286947;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 3340.5281,297.59454 0,-54.68286"
+       id="path2838"
+       inkscape:connector-curvature="0"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;($GS_T1_01_ACB_On&amp;&amp;$GS_T1_01_Run)||($GS_T1_02_ACB_On&amp;&amp;$GS_T1_02_Run)&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;($GS_T1_01_ACB_On&amp;&amp;$GS_T1_01_Run)||($GS_T1_02_ACB_On&amp;&amp;$GS_T1_02_Run)&quot;}]}" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2.6694355;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.35548553, 5.33887133, 2.66943566, 5.33887133;stroke-dashoffset:0"
+       id="rect2116"
+       width="1013.354"
+       height="390.96655"
+       x="2736.1279"
+       y="127.84594" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#ffffff;stroke-width:7.39286947;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 2969.9197,425.6 0,-32.768"
+       id="path2844"
+       inkscape:connector-curvature="0"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;GS_T1_01_Run&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;GS_T1_01_Run&quot;}]}" />
+    <g
+       id="g1641"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%tag=GS_T1_01&quot;]}"
+       transform="matrix(1.6832805,0,0,1.6832805,610.95861,-897.27194)">
+      <rect
+         y="832.02399"
+         x="1380.2839"
+         height="3.6810064"
+         width="42.245998"
+         id="rect1605"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect1607"
+         d="m 1390.0564,823.99274 -9.7724,8.03125 42.246,0 -9.7726,-8.03125 -22.701,0 z"
+         style="fill:url(#linearGradient7392);fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;$%tag_Trip||$%tag_Alarm||$%tag_Batt_Lo||$%tag_Lo_Press||$%tag_Overspeed||$%tag_Hi_Temp||$%tag_Fuel_Lo||$%tag_Fail&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%tag_Run&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;%tag_Run&quot;}]}"
+         transform="translate(324.15891,538.80801)"
+         id="path1592"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         cx="1077.248"
+         cy="270.68799"
+         r="20.48"
+         d="m 1097.728,270.68799 a 20.48,20.48 0 0 1 -20.48,20.48 20.48,20.48 0 0 1 -20.48,-20.48 20.48,20.48 0 0 1 20.48,-20.48 20.48,20.48 0 0 1 20.48,20.48 z" />
+      <g
+         transform="matrix(0.36306231,0,0,0.36306231,987.89714,517.91535)"
+         id="g1600">
+        <path
+           transform="translate(82.681934,533.42604)"
+           d="m 1097.728,270.68799 a 20.48,20.48 0 1 1 -40.96,0"
+           sodipodi:ry="20.48"
+           sodipodi:rx="20.48"
+           sodipodi:cy="270.68799"
+           sodipodi:cx="1077.248"
+           id="path1594"
+           style="fill:none;stroke:#000000;stroke-width:2.75434828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           sodipodi:open="true" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="3.1415927"
+           sodipodi:start="0"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000;stroke-width:2.75434828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path1596"
+           sodipodi:cx="1077.248"
+           sodipodi:cy="270.68799"
+           sodipodi:rx="20.48"
+           sodipodi:ry="20.48"
+           d="m 1097.728,270.68799 a 20.48,20.48 0 1 1 -40.96,0"
+           transform="matrix(1,0,0,-1,40.721943,1073.802)" />
+        <circle
+           transform="matrix(0.22500005,0,0,0.22500005,896.56909,742.7092)"
+           id="path1598"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:12.24154377;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           cx="1077.248"
+           cy="270.68799"
+           r="20.48"
+           d="m 1097.728,270.68799 a 20.48,20.48 0 0 1 -20.48,20.48 20.48,20.48 0 0 1 -20.48,-20.48 20.48,20.48 0 0 1 20.48,-20.48 20.48,20.48 0 0 1 20.48,20.48 z" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:7.39286947;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 3340.288,179.84 0,-73.82184"
+       id="path2834"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;($GS_T1_01_ACB_On&amp;&amp;$GS_T1_01_Run)||($GS_T1_02_ACB_On&amp;&amp;$GS_T1_02_Run)&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;($GS_T1_01_ACB_On&amp;&amp;$GS_T1_01_Run)||($GS_T1_02_ACB_On&amp;&amp;$GS_T1_02_Run)&quot;}]}" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2836"
+       d="m 2777.0881,297.57825 942.0799,0"
+       style="fill:none;stroke:#ffffff;stroke-width:7.39286947;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;($GS_T1_01_ACB_On&amp;&amp;$GS_T1_01_Run)||($GS_T1_02_ACB_On&amp;&amp;$GS_T1_02_Run)&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;($GS_T1_01_ACB_On&amp;&amp;$GS_T1_01_Run)||($GS_T1_02_ACB_On&amp;&amp;$GS_T1_02_Run)&quot;}]}" />
+    <path
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;$GS_T1_01_ACB_On&amp;&amp;$GS_T1_01_Run&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;$GS_T1_01_ACB_On&amp;&amp;$GS_T1_01_Run&quot;}]}"
+       inkscape:connector-curvature="0"
+       id="path671"
+       d="m 2969.9196,335.488 0,-31.37644"
+       style="fill:none;stroke:#ffffff;stroke-width:7.39286995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:35.72063828px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       x="2925.073"
+       y="455.95316"
+       id="text1457"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2930.5488"
+         y="455.95316"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         id="tspan1459">1000KVA </tspan><tspan
+         id="tspan1463"
+         sodipodi:role="line"
+         x="2925.073"
+         y="475.97861"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">415V 3 PHASE</tspan><tspan
+         id="tspan1478"
+         sodipodi:role="line"
+         x="2925.073"
+         y="496.00406"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">GENERATOR SET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.72063828px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       x="2849.3518"
+       y="328.33502"
+       id="text1501"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan1503"
+         x="2849.3518"
+         y="328.33502"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">2500A</tspan><tspan
+         sodipodi:role="line"
+         x="2849.3518"
+         y="348.36047"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         id="tspan1505">TPN</tspan><tspan
+         sodipodi:role="line"
+         x="2849.3518"
+         y="368.38593"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         id="tspan1507">ACB</tspan><tspan
+         sodipodi:role="line"
+         x="2849.3518"
+         y="388.41141"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         id="tspan1509">(50KVA)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.72063828px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       x="3381.4443"
+       y="250.0386"
+       id="text1557"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3381.4443"
+         y="250.0386"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         id="tspan1561">4000A TPN</tspan><tspan
+         sodipodi:role="line"
+         x="3381.4443"
+         y="270.06406"
+         style="font-size:16.02036667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         id="tspan1565">ACB</tspan></text>
+    <g
+       id="g1832"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%tag=GS_T1_01_ACB&quot;,&quot;%E=GS_T1_01_Run&quot;]}"
+       transform="matrix(2.6830233,0,0,2.6830233,-879.97512,-2679.571)">
+      <rect
+         style="opacity:0.98000004;fill:#00ffff;fill-opacity:1;stroke:none"
+         height="22.362801"
+         width="22.362801"
+         stroke-miterlimit="4"
+         y="1423.5349"
+         x="-1145.7847"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;%E&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%E&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;%tag_On&quot;}"
+         id="rect1834"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <g
+         transform="matrix(1.0792881,0,0,1.0792881,-190.08004,-93.70508)"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;$%tag_On||$%tag_Off&quot;}"
+         id="g1836">
+        <rect
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect1838"
+           x="-1147.4283"
+           y="1496.0778"
+           stroke-miterlimit="4"
+           width="18.711199"
+           height="18.711199"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.38133037;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <rect
+           style="opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none"
+           height="9.3551722"
+           width="9.3551722"
+           stroke-miterlimit="4"
+           y="1505.4338"
+           x="-1138.0723"
+           id="rect1840"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <rect
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect1842"
+           x="-1147.4283"
+           y="1496.0778"
+           stroke-miterlimit="4"
+           width="9.3551722"
+           height="9.3551722"
+           style="opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none" />
+      </g>
+      <path
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_EF&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;%E&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%E&quot;}]}"
+         inkscape:connector-curvature="0"
+         id="path1844"
+         d="m 1423.5348,1145.7847 1.1584,0 20.0139,0 1.1906,0 0,-1.1584 0,-20.0138 0,-1.1906 -1.1906,0 -20.0139,0 -1.1584,0 0,1.1906 0,20.0138 0,1.1584 z m 2.3488,-2.3488 0,-17.6651 17.6652,0 0,17.6651 -17.6652,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffbf00;fill-opacity:1;stroke:none;stroke-width:2.98170686;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <g
+         id="g1846"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;}"
+         stroke-miterlimit="4"
+         transform="matrix(0,-0.46844421,0.46844421,0,1293.494,1408.3297)"
+         style="stroke:#000000;stroke-width:2.79809833;stroke-miterlimit:4;stroke-dashoffset:0">
+        <rect
+           id="rect1848"
+           x="562.05292"
+           y="279.1929"
+           width="44.555889"
+           height="44.555889"
+           style="opacity:0.98000004;fill:#808080;stroke-width:3.1825633;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="path1850"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           d="m 563.4462,323.74878 20.88564,-21.88682 20.88563,21.88682 z"
+           style="opacity:0.98000004;fill:#ffffff;stroke-width:3.1825633;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="path1852"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           d="m 563.4462,279.19289 20.88564,21.88683 20.88563,-21.88683 z"
+           style="opacity:0.98000004;fill:#ffffff;stroke-width:3.1825633;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       transform="matrix(2.6830233,0,0,2.6830233,-375.45744,-2679.571)"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%tag=GS_T1_02_ACB&quot;,&quot;%E=GS_T1_02_Run&quot;]}"
+       id="g2632">
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         id="rect2634"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;%E&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%E&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;%tag_On&quot;}"
+         x="-1145.7847"
+         y="1423.5349"
+         stroke-miterlimit="4"
+         width="22.362801"
+         height="22.362801"
+         style="opacity:0.98000004;fill:#00ffff;fill-opacity:1;stroke:none" />
+      <g
+         id="g2636"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;$%tag_On||$%tag_Off&quot;}"
+         transform="matrix(1.0792881,0,0,1.0792881,-190.08004,-93.70508)">
+        <rect
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.38133037;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           height="18.711199"
+           width="18.711199"
+           stroke-miterlimit="4"
+           y="1496.0778"
+           x="-1147.4283"
+           id="rect2638"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <rect
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect2640"
+           x="-1138.0723"
+           y="1505.4338"
+           stroke-miterlimit="4"
+           width="9.3551722"
+           height="9.3551722"
+           style="opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           style="opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none"
+           height="9.3551722"
+           width="9.3551722"
+           stroke-miterlimit="4"
+           y="1496.0778"
+           x="-1147.4283"
+           id="rect2642"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffbf00;fill-opacity:1;stroke:none;stroke-width:2.98170686;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 1423.5348,1145.7847 1.1584,0 20.0139,0 1.1906,0 0,-1.1584 0,-20.0138 0,-1.1906 -1.1906,0 -20.0139,0 -1.1584,0 0,1.1906 0,20.0138 0,1.1584 z m 2.3488,-2.3488 0,-17.6651 17.6652,0 0,17.6651 -17.6652,0 z"
+         id="path2644"
+         inkscape:connector-curvature="0"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;%tag_EF&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;%E&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%E&quot;}]}" />
+      <g
+         style="stroke:#000000;stroke-width:2.79809833;stroke-miterlimit:4;stroke-dashoffset:0"
+         transform="matrix(0,-0.46844421,0.46844421,0,1293.494,1408.3297)"
+         stroke-miterlimit="4"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;}"
+         id="g2646">
+        <rect
+           style="opacity:0.98000004;fill:#808080;stroke-width:3.1825633;stroke-miterlimit:4;stroke-dasharray:none"
+           height="44.555889"
+           width="44.555889"
+           y="279.1929"
+           x="562.05292"
+           id="rect2648" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;stroke-width:3.1825633;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 563.4462,323.74878 20.88564,-21.88682 20.88563,21.88682 z"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path2650" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;stroke-width:3.1825633;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 563.4462,279.19289 20.88564,21.88683 20.88563,-21.88683 z"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path2652" />
+      </g>
+    </g>
+    <g
+       transform="matrix(3.3011519,0,0,-3.3011519,1781.2937,1358.2171)"
+       id="g2486">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="1.9947536"
+         sodipodi:start="0"
+         transform="matrix(-0.24605947,0.24302385,0.09699721,0.23548024,474.32422,277.42932)"
+         d="M 112.29761,225.632 A 15.188804,24.576 0 0 1 90.860576,248.03225"
+         sodipodi:ry="24.576"
+         sodipodi:rx="15.188804"
+         sodipodi:cy="225.632"
+         sodipodi:cx="97.108803"
+         id="path2488"
+         style="fill:none;stroke:#000000;stroke-width:7.00505924;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:1.22880006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path2490"
+         transform="matrix(-1.2207031,0,0,1.2207031,637.30177,-161.73664)"
+         cx="135.168"
+         cy="414.048"
+         r="1.024"
+         d="m 136.192,414.048 a 1.024,1.024 0 0 1 -1.024,1.024 1.024,1.024 0 0 1 -1.024,-1.024 1.024,1.024 0 0 1 1.024,-1.024 1.024,1.024 0 0 1 1.024,1.024 z" />
+      <text
+         transform="scale(1,-1)"
+         sodipodi:linespacing="125%"
+         id="text2492"
+         y="-352.70374"
+         x="470.09085"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:8px;font-weight:bold;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+           y="-352.70374"
+           x="470.09085"
+           id="tspan2494"
+           sodipodi:role="line">x</tspan></text>
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:7.00505924;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path2496"
+         sodipodi:cx="97.108803"
+         sodipodi:cy="225.632"
+         sodipodi:rx="15.188804"
+         sodipodi:ry="24.576"
+         d="M 112.29761,225.632 A 15.188804,24.576 0 0 1 90.860576,248.03225"
+         transform="matrix(-0.24605947,-0.24302385,0.09699721,-0.23548024,474.32422,421.11592)"
+         sodipodi:start="0"
+         sodipodi:end="1.9947536"
+         sodipodi:open="true" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 475.18216,354.59086 -2.6503,-9.89108"
+         id="path2498"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text1830"
+       y="462.14453"
+       x="2969.7388"
+       style="font-size:35.72063828px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       xml:space="preserve"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red/white&quot;,&quot;tag&quot;:&quot;Genset_Fire&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;Genset_Fire&quot;}"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="462.14453"
+         x="2969.7388"
+         sodipodi:role="line"
+         id="tspan1837">FIRE</tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="477.14453"
+         x="2969.7388"
+         sodipodi:role="line"
+         id="tspan1854">MODE</tspan></text>
+    <text
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;red/white&quot;,&quot;tag&quot;:&quot;Genset_Fire&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;Genset_Fire&quot;}"
+       xml:space="preserve"
+       style="font-size:35.72063828px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       x="3473.7527"
+       y="462.41357"
+       id="text1856"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan1858"
+         sodipodi:role="line"
+         x="3473.7527"
+         y="462.41357"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">FIRE</tspan><tspan
+         id="tspan1860"
+         sodipodi:role="line"
+         x="3473.7527"
+         y="477.41357"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">MODE</tspan></text>
+  </g>
+</svg>

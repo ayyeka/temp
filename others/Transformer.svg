@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210"
+   height="260"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48+devel "
+   version="1.0"
+   sodipodi:docname="Transformer.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0730769"
+     inkscape:cx="105"
+     inkscape:cy="130"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1351"
+     showgrid="true"
+     width="12px"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     inkscape:snap-smooth-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid63"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.0001px"
+       spacingy="0.0001px"
+       originx="-989.36654px"
+       originy="-396.54499px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-989.36654,-383.45501)">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:8.44899368;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1020.3182,644.97264 0,-91.35507"
+       id="path2804"
+       inkscape:connector-curvature="0"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;SG_T1_02_E&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;yellow&quot;,&quot;tag&quot;:&quot;SG_T1_02_E&quot;}]}" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:8.44900036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1020.3182,477.05563 0,-91.355"
+       id="path2796"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_TR1_status_connected&quot;},{&quot;data&quot;:&quot;false&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;TX_T1_02_E&quot;},{&quot;data&quot;:&quot;true&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;TX_T1_02_E&quot;}]}" />
+    <g
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%PLC=TR1&quot;,&quot;%tag=TX_T1_02&quot;,&quot;%E=SG_T1_02_E&quot;]}"
+       transform="matrix(0.58044157,0,0,0.58044157,883.91435,276.38315)"
+       id="g1351">
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;$%tag_Alarm||$%tag_Trip||$%tag_Buch_Alarm||$%tag_Buch_Trip&quot;},{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%E&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;yellow&quot;,&quot;tag&quot;:&quot;%E&quot;}]}"
+         style="fill:none;stroke:#ffff00;stroke-width:8.88888931;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path1355"
+         transform="matrix(1.125,0,0,1.125,-80,-20.625)"
+         cx="280"
+         cy="405"
+         r="40"
+         d="m 320,405 a 40,40 0 0 1 -40,40 40,40 0 0 1 -40,-40 40,40 0 0 1 40,-40 40,40 0 0 1 40,40 z" />
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;grey&quot;,&quot;tag&quot;:&quot;device_%PLC_status_connected&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#ffbf00/white&quot;,&quot;tag&quot;:&quot;$%tag_Alarm||$%tag_Trip||$%tag_Buch_Alarm||$%tag_Buch_Trip&quot;},{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;white&quot;,&quot;tag&quot;:&quot;%E&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#00ffff&quot;,&quot;tag&quot;:&quot;%E&quot;}]}"
+         transform="matrix(1.125,0,0,1.125,-80,-65.625)"
+         id="path1353"
+         style="fill:none;stroke:#00ffff;stroke-width:8.88888931;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         cx="280"
+         cy="405"
+         r="40"
+         d="m 320,405 a 40,40 0 0 1 -40,40 40,40 0 0 1 -40,-40 40,40 0 0 1 40,-40 40,40 0 0 1 40,40 z" />
+    </g>
+    <g
+       id="g631"
+       transform="matrix(1.5583132,0,0,1.5583132,737.79965,-839.40781)"
+       style="fill:#000000;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-size:22.92263031px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="206.65523"
+         y="870.26691"
+         id="text604"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="206.65523"
+           y="870.26691"
+           style="font-size:10.28058147px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           id="tspan612">1000KVA</tspan><tspan
+           id="tspan623"
+           sodipodi:role="line"
+           x="206.65523"
+           y="883.11761"
+           style="font-size:10.28058147px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">11/0.433 KV</tspan><tspan
+           id="tspan625"
+           sodipodi:role="line"
+           x="206.65523"
+           y="895.96838"
+           style="font-size:10.28058147px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">TRANSFORMER</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:22.92263031px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+         x="251.15887"
+         y="855.93073"
+         id="text627"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan629"
+           x="251.15887"
+           y="855.93073"
+           style="font-size:17.13430214px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold">TX-T1-02</tspan></text>
+    </g>
+  </g>
+</svg>
